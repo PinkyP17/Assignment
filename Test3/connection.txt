@@ -1,0 +1,6 @@
+rocket:drax
+lylla:gamora
+drax:rocket,mantis
+mantis:drax,gamora
+gamora:lylla,mantis,thanos
+thanos:gamora

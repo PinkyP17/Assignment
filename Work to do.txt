@@ -1,0 +1,10 @@
+getUser - Database SQL
+This method to get the user object using username from the database
+(Creating a new graph and vertex)
+
+Basically retrieve the user object from sql + friends and connect using edges
+(mutual & friend)
+
+getFriendList- Database SQL
+split and then use to create vertex (calling user object)
+
